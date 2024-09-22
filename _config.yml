@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "SHI Yufei"
   pronouns         : # example: "she/her"  
-  #bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hong Kong Polytechnic University"
   location         : "Hong Kong"
-  employer         : "The Hong Kong Polytechnic University"
-  uri              : # URL
+  #employer         : "The Hong Kong Polytechnic University"
+  #uri              : # URL
   email            : "shiyufei1999@outlook.com" 
 
 
